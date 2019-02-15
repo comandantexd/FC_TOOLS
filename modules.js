@@ -17,7 +17,7 @@ const INPUT_CONFIG = [{
     dispatcher: 'KeyF'
 },{
     eventName: 'main',
-    dispatcher: 'KeyQ'
+    dispatcher: 'ESCAPE'
 }];
 
 var inputui = new InputUI(INPUT_CONFIG);
